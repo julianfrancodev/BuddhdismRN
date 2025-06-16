@@ -1,8 +1,48 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🧘‍♂️ Buddhist Practice App – React Native
 
-# Getting Started
+Una aplicación móvil desarrollada en **React Native** para apoyar la práctica del **budismo tibetano**. Está diseñada como un espacio digital consciente que ayuda a mantener la disciplina espiritual diaria, integrando herramientas esenciales como un **contador de mantras**, **temporizador de meditación**, **registro de enseñanzas** y un **diario espiritual**.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+---
+
+## ✨ Características principales
+
+- 🔢 **Contador de Mantras**  
+  Cuenta y registra tus recitaciones con objetivos personalizados. Incluye sonidos opcionales por cada conteo, útil para prácticas con o sin mala física.
+
+- 🕒 **Temporizador de Meditación**  
+  Temporizador con campanas tibetanas al inicio y al final. Posibilidad de agregar música de fondo o sonidos relajantes.
+
+- 📓 **Diario Espiritual**  
+  Escribe tus reflexiones diarias, sueños o insights después de cada sesión de práctica.
+
+- 📖 **Frases y Enseñanzas**  
+  Acceso a una biblioteca de frases, extractos de textos y enseñanzas breves del budismo tibetano.
+
+- 📊 **Estadísticas de Práctica**  
+  Revisión del progreso diario y mensual, número de mantras recitados y tiempo acumulado en meditación.
+
+- 🎨 **Modo Oscuro y Temas**  
+  Personalización visual para adaptarse a tus preferencias o momentos del día.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **React Native**
+- **Expo**
+- **React Navigation** (Bottom Tabs)
+- **AsyncStorage** (persistencia local)
+- **React Native Paper** o **Tailwind** (UI Components)
+- **[Opcional] Firebase / Supabase** (si se implementa sincronización en la nube)
+
+---
+
+## 📦 Instalación y ejecución
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/buddhist-practice-app.git
+   cd buddhist-practice-app
 
 ## Step 1: Start Metro
 
